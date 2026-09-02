@@ -1,0 +1,16 @@
+{"input": "Garden.new(\"RC\nGG\").alice", "expect": ["radishes", "clover", "grass", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VC\nRC\").alice", "expect": ["violets", "clover", "radishes", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VVCG\nVVRC\").bob", "expect": ["clover", "grass", "radishes", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VVCCGG\nVVCCGG\").bob", "expect": ["clover", "clover", "clover", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VVCCGG\nVVCCGG\").charlie", "expect": ["grass", "grass", "grass", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").alice", "expect": ["violets", "radishes", "violets", "radishes"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").bob", "expect": ["clover", "grass", "clover", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").charlie", "expect": ["violets", "violets", "clover", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").david", "expect": ["radishes", "violets", "clover", "radishes"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").eve", "expect": ["clover", "grass", "radishes", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").fred", "expect": ["grass", "clover", "violets", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").ginny", "expect": ["clover", "grass", "grass", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").harriet", "expect": ["violets", "radishes", "radishes", "violets"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").ileana", "expect": ["grass", "clover", "violets", "clover"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").joseph", "expect": ["violets", "clover", "violets", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
+{"input": "Garden.new(\"VRCGVVRVCGGCCGVRGCVCGCGV\nVRCCCGCRRGVCGCRVVCVGCGCV\").kincaid", "expect": ["grass", "clover", "clover", "grass"], "raised": false, "task": "kindergarten-garden", "lang": "ruby"}
